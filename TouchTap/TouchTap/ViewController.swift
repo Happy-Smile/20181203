@@ -60,6 +60,8 @@ class ViewController: UIViewController {
     }
     
     // 터치한 좌표들(Began ~ Ended)을 가지고 해당 좌표들이 'ㅂ' 영역((0,0) ~ (100,100)) 에 있을 경우 'ㅂ' 출력
+    //끝
+
 }
 
 
